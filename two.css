@@ -40,7 +40,7 @@ ol {
 }
 
 .container-fluid {
-  background: url(../cv2/background.jpg) no-repeat top;
+  background: url(background.jpg) no-repeat top;
   background-size: cover;
   background-color: lightblue;
   padding: 0;
