@@ -1,0 +1,67 @@
+
+body{
+  background-color: green;
+}
+
+ul {
+  background: lightblue;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  border: 10px solid #OAA4E7;
+  border-style: solid;
+}
+
+.headingname {
+  background-color: lightblue
+}
+
+ol {
+  display: grid;
+}
+
+.namehead {
+  background-color: lightblue;
+  color: green;
+}
+
+.introduction {
+  color: black;
+  background-color: lightblue;
+  z-index: 10;
+  width: 50%;
+}
+
+.skills {
+  color: black;
+  background-color: lightblue;
+}
+
+.container-fluid {
+  background: url(../cv2/background.jpg) no-repeat top;
+  background-size: cover;
+  background-color: lightblue;
+  padding: 0;
+}
+
+.navigation {
+  background-color: lightblue;
+  list-style-type: none;
+}
+
+.images {
+  background-color: lightblue;
+  align: center;
+}
+
+.contact {
+  color: blue;
+background-color: lightblue;
+border-style: solid;
+}
+
+.image {
+  text-align: right;
+}
